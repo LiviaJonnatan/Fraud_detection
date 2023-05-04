@@ -5,3 +5,5 @@ This repository includes:
 - Feature selection
 - Data balancing
 - Machine learning: logistic regression, decision tree, random forest, and XGBoost
+
+© Livia Jonnatan, 2023
